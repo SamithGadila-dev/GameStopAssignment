@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Game A",
+    "image": "https://reactjs.org/logo-og.png",
+    "type": "video games",
+    "variations": ["Digital", "New", "Pre-Owned"],
+    "details": "Description of Game A"
+  },
+  {
+    "id": "2",
+    "name": "Shirt B",
+    "image": "https://reactjs.org/logo-og.png",
+    "type": "clothing",
+    "variations": ["Small", "Medium", "Large"],
+    "details": "Description of Shirt B"
+  },
+  {
+    "id": "3",
+    "name": "Console C",
+    "image": "https://reactjs.org/logo-og.png",
+    "type": "console",
+    "variations": ["New", "Pre-Owned", "Refurbished"],
+    "details": "Description of Console C"
+  }
+]
